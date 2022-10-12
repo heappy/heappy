@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heappy (Christopher
+- 👋 Hi, I’m @heappy (Christopher)
 - 👀 I’m interested in UAS's and coding 
 - 🌱 I’m currently learning AI/ML/RL for control purposes
 - 💞️ I’m looking to collaborate on UAS projects 
